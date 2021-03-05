@@ -39,7 +39,9 @@ line1: text
 csv data start:
 
    first_name,surname,age,nationality,favourite_colour
+   
    John,Keynes,29,British,red
+   
    Sarah,Robinson,54,,blue
    
 end line: end
