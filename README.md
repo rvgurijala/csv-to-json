@@ -19,8 +19,11 @@ This App expects two inputs:
  2. If it is 'text' paste your text in csv format and enter 'end' after completing else enter absolute file path 
  
 Example input for option file:
+
 line1: file
+
 lien2: ...../resources/persons.csv
+
 
 ```
 file
@@ -30,11 +33,15 @@ file
 User can see output in command line.
 
 Example input for option user text input:
+
 line1: text
+
 csv data start:
+
    first_name,surname,age,nationality,favourite_colour
    John,Keynes,29,British,red
    Sarah,Robinson,54,,blue
+   
 end line: end
 
 ```
